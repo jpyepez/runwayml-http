@@ -69,4 +69,5 @@ RunwayHTTP.getError(8000).then(res => console.log('error:', res));
 ## Credits
 This package has been implemented according to RunwayML's
 documentation.
+
 Author: [JP Yepez](https://www.instagram.com/jpyepez/)
