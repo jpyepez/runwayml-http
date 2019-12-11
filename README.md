@@ -33,6 +33,7 @@ Send data to RunwayML:
 ```javascript
 // Query server with port and data.
 const captionData = { 'caption': 'Machine learning for creators' };
+
 RunwayHTTP.query(8000, captionData);
 ```
 
@@ -41,6 +42,7 @@ The `query` method returns a response from RunwayML:
 ```javascript
 // Query server and handle response using a Promise.
 const captionData = { 'caption': 'Machine learning for creators' };
+
 RunwayHTTP.query(8000, captionData)
     .then(res => console.log(res));
 ```
