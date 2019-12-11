@@ -1,0 +1,24 @@
+{
+  "name": "runwayml-http",
+  "version": "0.0.0",
+  "description": "RunwayML HTTP utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpyepez/runwayml-http.git"
+  },
+  "keywords": [
+    "runwayml",
+    "http",
+    "machinelearning"
+  ],
+  "author": "JP Yepez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpyepez/runwayml-http/issues"
+  },
+  "homepage": "https://github.com/jpyepez/runwayml-http#readme"
+}
