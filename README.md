@@ -1,14 +1,14 @@
 # RunwayML HTTP
 
 RunwayML HTTP (RunwayHTTP) is a utility package that provides quick
-and easy methods to post and request data from
-[RunwayML](https://runwayml.com/).
+and easy methods to post and request data from the
+[RunwayML](https://runwayml.com/) desktop app.
 
 ## Demos
 (Coming soon)
 
 ## Installation
-`npm i --S runwayml-http`
+`npm i -S runwayml-http`
 
 ## Usage (Node.js + npm)
 
